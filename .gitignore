@@ -4,3 +4,10 @@
 *.jar
 *.war
 *.ear
+
+# Temp and Eclipse files #
+*.*~
+.settings/
+.metadata/
+*.class
+.classpath
