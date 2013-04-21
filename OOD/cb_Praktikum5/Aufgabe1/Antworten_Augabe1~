@@ -1,0 +1,20 @@
+Aufgabe 1
+
+Welches andere Pattern könnte man auch für die Realisierung verwenden. Wo sind die Vor-
+und Nachteile?
+
+
+Decorator Pattern
+
+Vorteile:
+
+Der Vorteil liegt darin, das mehrere Sortieralgorithmen hintereinander Angewendet werden können. 
+
+Nachteile:  
+
+Es exiistiert ein höherer Kommunikationsaufwand.
+
+
+Aufgabe 2
+
+
