@@ -1,0 +1,270 @@
+1;Röthlin;Viktor;74;Magglingen/Macolin;2:11:05;M20
+2;Tesfaye;Eticha;74;ETH;2:10:58;M20
+4;Kokine;Pavel;74;RUS-Moskau;2:14:00;M20
+5;Wasiema;Jackton Odiamb ;70;KEN-Nairobi;2:15:29;M30
+6;Rodionov;Alexey;70;RUS-Moskau;2:17:33;M30
+9;Lemma;Regessa;77;Crissier;2:22:18;M20
+11;Blättler;Beat;76;Bonstetten;2:34:49;M20
+12;Christen;Urs;63;Rotkreuz;2:19:33;M40
+14;Havelka;Petr;72;CZ-Prag;2:29:09;M30
+15;Disassa;Dabessa;72;ETH;2:19:26;M30
+18;Kolich;Rostislav;65;CZ-Prag;2:30:54;M30
+20;Miklos;Artur Ianos;72;R-Bukarest;2:23:00;M30
+22;Pustea;Cristian Alin;76;R-Bukarest;2:37:17;M20
+24;Schneble;Gerhard;69;D-Gailingen;2:25:39;M30
+25;Schneider;Peter;66;Uzwil;2:26:22;M30
+27;Stampanoni;Jonathan;70;Bigorio;2:34:39;M30
+28;Zwicky;Christian;66;Gockhausen;2:27:53;M30
+30;Feyisa;Mengesha;78;ETH-Aethiopien;2:33:07;M20
+51;Szymanska;Karina;75;PL-Wabrzezno;2:33:27;W20
+53;Worku;Tsiga;81;ETH-Aethiopien;2:39:11;W20
+55;Belohlavkova;Jitka;76;CZ-Prag;2:51:33;W20
+56;Gezahgen;Addis;70;ETH-Aethiopien;2:49:08;W30
+57;Kläsi;Katrin;65;Rüti ZH;2:50:51;W30
+59;Abossa;Emebet;74;ETH-Aethiopien;2:40:36;W20
+62;Munji;Titus;76;KEN;2:16:57;M20
+64;Degefu;Fekadu;76;ETH;2:13:56;M20
+65;Omae;Peter;76;KEN;2:19:59;M20
+69;Bossert;Rolf;73;Bubikon;2:44:10;M30
+1024;Aegerter;Bruno;68;Zürich;2:58:48;M30
+1046;Albers;Vincent;56;Zürich;2:54:25;M45
+1067;Althaus;Rolf;62;Arlesheim;2:52:47;M40
+1123;Arenson;Lukas;72;Zürich;2:49:39;M30
+1151;Aymon;Pascal;67;Ayent;2:34:16;M30
+1201;Bartels;Birgit;69;D-Kirchzarten;2:55:24;W30
+1205;Bärtsch;Mauro;85;Wollerau;2:49:08;M18
+1206;Bärtschi;Michael;63;Reutigen;2:39:15;M40
+1215;Battaglia;Simon;69;Schlieren;2:59:05;M30
+1223;Bürgi;Andre;60;Bülach;2:52:09;M40
+1268;Beccarelli;Giuliano;64;Uster;2:48:15;M30
+1320;Berger;Urs;54;Regensdorf;2:55:33;M45
+1329;Bernardi;Fabrizio;71;I-Imola;2:48:12;M30
+1343;Berson;Frank;71;D-Pforzheim;2:54:14;M30
+1354;Berweger;Peter;69;Oberwil-Dägerlen;2:56:01;M30
+1372;Bhend;Werner;69;Zürich;2:50:33;M30
+1380;Bentz;Felix;79;Uerlikon;2:30:37;M20
+1402;Biotti;Andreas;69;Eschenbach LU;2:48:37;M30
+1408;Rosser;Martin;70;Bonstetten;2:48:51;M30
+1415;Bischof;Thomas;64;Bäch;2:56:43;M30
+1453;Kremsel;Andreas;68;Hombrechtikon;2:57:22;M30
+1459;Bodenmann;Andreas;56;Zürich;2:56:22;M45
+1499;Börsig;Volker;69;D-Konstanz;2:56:37;M30
+1503;Boschung;Hans-Peter;61;Kloten;2:58:08;M40
+1510;Bosshammer;Ralf;58;D-Vogt;2:51:50;M45
+1526;Boucher;Gilles;57;Belfaux;2:46:37;M45
+1606;Brugger;Horst;61;D-Rheinfelden;2:54:53;M40
+1636;Brunner;Matthias;66;Zürich;2:57:41;M30
+1728;Burgermeister;Urs;70;Zürich;2:43:55;M30
+1760;Bütler;Leo;70;Winterthur;2:47:36;M30
+1778;Callura;Arnoldo;67;Ottenbach;2:37:40;M30
+1782;Camenzind;Balz;64;Hirzel;2:57:58;M30
+1786;Camenzind;Peter;51;Kilchberg;2:34:12;M50
+1831;Christen;Isidor;66;Ebikon;2:34:00;M30
+1832;Christen;Pirmin;73;Zürich;2:56:59;M30
+1833;Christen;Rolf;58;Olten;2:47:20;M45
+1852;Colella;Andi;68;Gommiswald;2:51:25;M30
+1885;Kopal;Robert;74;Flurlingen;2:44:21;M20
+1889;Curiger;Andreas;64;Buchs ZH;2:43:46;M30
+1910;Dätwyler;Sascha;72;Brütten;2:45:56;M30
+1958;Dhamen;Luc;66;L-Goetzingen L-8360;2:52:38;M30
+1985;Disler;Andy;76;Zürich;2:52:07;M20
+2005;Dorsch;Roger;77;D-Mannheim;2:57:09;M20
+2047;Fiori;Ulysse;68;Richterswil;2:52:16;M30
+2074;Eggs;Marco;64;Uster;2:50:46;M30
+2076;Egli;Alois;63;Winterthur;2:52:04;M40
+2095;Ehmert;Benny;70;D-Sindelfingen;2:52:05;M30
+2142;Engeler;Markus;55;Gattikon;2:41:27;M45
+2144;Engeli;Benjamin;79;Wiesendangen;2:47:42;M20
+2175;Estermann;Martin;63;Luzern;2:48:46;M40
+2205;Färber;Philipp;66;Stäfa;2:59:48;M30
+2249;Ferrat;Dominique;71;Hedingen;2:59:29;M30
+2250;Ferri;Alfred;60;D-Großaitingen;2:49:35;M40
+2268;Fischer;Alois;64;Zunzgen;2:44:07;M30
+2272;Fischer;Jochen;64;D-München;2:41:54;M30
+2289;Fleischmann;Meinrad;61;Au;2:50:29;M40
+2296;Flum;Hardy;65;D-Weilheim;2:51:22;M30
+2323;Frei;Martin;62;Zollikon;2:56:13;M40
+2328;Frei;Rolf;70;Bäretswil;2:45:26;M30
+2393;Fuchser;René;68;Dübendorf;2:42:42;M30
+2400;Funk;Pascal;67;Zürich;2:56:05;M30
+2430;Gälli;René;56;Uster;2:58:34;M45
+2473;Gehrig;Roman;69;Zürich;2:52:03;M30
+2479;Gehring;Lukas;79;Gossau;2:58:53;M20
+2492;Gentile;Daniele;65;Schlieren;2:55:48;M30
+2504;Gerber;Hans;62;Schwyz;2:42:51;M40
+2512;Gerber;Ueli;60;Horgenberg;2:45:14;M40
+2518;Germann;Rico;71;Strengelbach;2:46:52;M30
+2533;Ghisleni;Gabriele;63;Morbio Inferiore;2:53:20;M40
+2565;Gisi;Martin;70;Dintikon;2:50:32;M30
+2575;Glarner;Rolf;58;Zürich;2:58:31;M45
+2586;Gmür;Martin;74;Zürich;2:57:56;M20
+2600;Gonzalez;Antonio;60;FL-Eschen;2:47:56;M40
+2671;Grohmann;Raphael;59;D-Konstanz;2:55:23;M40
+2695;Gschwend;Peter;52;Kloten;2:36:48;M50
+2735;Gut;Hugo;50;Affoltern a.A.;2:58:59;M50
+2738;Gut;Viktor;60;Sempach Stadt;2:51:42;M40
+2752;Gyagang;Gontscho;66;Wädenswil;2:49:25;M30
+2756;Gysin;Patrick;73;Gattikon;2:39:43;M30
+2763;Haas;Erwin;67;Langenthal;2:59:27;M30
+2804;Hagmann;Hugues;65;Oberrohrdorf;2:54:24;M30
+2852;Dean;Mitch;79;Zürich;2:44:55;M20
+2908;Hegi;Christoph;63;Dättwil;2:58:44;M40
+2918;Heim;Alexander;70;Zürich;2:45:59;M30
+2945;Henkel;Martin;70;D-Berlin;2:57:45;M30
+3028;Höfler;Oliver;75;Seuzach;2:42:31;M20
+3041;Schumacher;Urban;63;Uster;2:58:36;M40
+3089;Hossli;Harry;63;Rorbas-Freienstein;2:51:53;M40
+3108;Huber;Felix;75;Jona;2:41:53;M20
+3116;Huber;Markus;63;Uetikon am See;2:58:17;M40
+3126;Huber;Roland;66;Rümlang;2:55:10;M30
+3147;Hugentobler;Simon;69;Rueti;2:54:43;M30
+3180;Hutter;Daniel;75;Widnau;2:44:24;M20
+3204;Inauen;Kurt;45;Gossau;2:57:34;M55
+3241;Jäggi;Christoph;76;Olten;2:59:01;M20
+3281;Jermini;Davide;68;Zürich;2:57:21;M30
+3283;Job;Martin;64;Tann;2:41:52;M30
+3284;Jobin;Michel;68;Birmenstorf AG;2:49:59;M30
+3292;Joller;Thomas;68;Zürich;2:57:00;M30
+3293;Jollien;Yvan;66;Savièse;2:39:00;M30
+3303;Jordan;Remo;58;Brig-Glis;2:52:05;M45
+3313;Jost;Martin;77;Winterthur;2:39:40;M20
+3328;Jud;Ueli;61;Schänis;2:56:31;M40
+3360;Kälin;Markus;62;Herrliberg;2:57:01;M40
+3367;Kalt;Markus;59;Wangen;2:43:17;M40
+3381;Käppeli;Beat;64;Schwerzenbach;2:58:43;M30
+3391;Kathan;Norbert;58;A-Dornbirn A-6850;2:56:04;M45
+3394;Alfaia;Furtado Euclide ;64;D-Friedrichshafen;2:46:58;M30
+3408;Keel;Harry;70;Effretikon;2:57:49;M30
+3424;Keller;Christian;68;Zürich;2:52:43;M30
+3442;Keller;Xaver;61;Freienbach;2:52:48;M40
+3461;Kettner;Marco;66;Neuheim;2:49:14;M30
+3483;Kistler;Ivo;69;Zürich;2:49:57;M30
+3495;Klauser;Philipp;73;Ebmatingen;2:59:14;M30
+3509;Klomp;Gregor;72;Gockhausen;2:54:11;M30
+3526;Knechtle;Iwan;71;Appenzell;2:39:15;M30
+3547;Koch;Sepp;61;Jonen AG;2:56:11;M40
+3550;Kocher;Frank;69;Muttenz;2:54:19;M30
+3596;Koster;Alfred;61;Wetzikon;2:45:50;M40
+3606;Krähenbühl;Andreas;66;Hombrechtikon;2:53:32;M30
+3653;Kuebler;Ingo;62;Frauenfeld;2:39:30;M40
+3773;Lanz;Martin;73;Bern;2:44:08;M30
+3832;Leu;Urs;61;Wallisellen;2:38:20;M40
+3837;Leuenberger;Peter;69;Zauggenried;2:35:58;M30
+3846;Ley;Volker;68;D-Rutesheim;2:59:05;M30
+3896;Lötscher;Arno;77;Küblis;2:49:40;M20
+3921;Lüscher;Hanspeter;78;Zürich;2:59:19;M20
+3950;Luzolo;Carlos;67;Thônex;2:52:32;M30
+3953;Maag;Stefan;66;Oberwil;2:52:38;M30
+3957;Mächler;Arnold;64;Buttikon;2:59:06;M30
+3968;Mägerle;Roland;68;Neftenbach;2:45:44;M30
+4045;Mattes;Martin;65;Bonstetten;2:58:04;M30
+4053;Mauch;Markus;79;D-Gottmadingen;2:55:21;M20
+4136;Menzi;Rolf;70;Zürich;2:55:55;M30
+4150;Messmer;Daniel;74;St Gallen;2:49:57;M20
+4182;Migga;Klaus;60;PL-Wabrzezno;2:57:50;M40
+4216;Moos;Yvan;73;Ayent;2:46:20;M30
+4301;Müller;Lothar;64;Meilen;2:49:22;M30
+4326;Mullis;Thomas;77;Mosnang;2:56:27;M20
+4330;Murawski;Karsten;74;Zürich;2:53:32;M20
+4358;Nehmert;Neal;60;Troinex;2:58:43;M40
+4404;Oberli;Thomas;70;Zürich;2:44:39;M30
+4405;Oberli;Willy;54;Arth;2:57:18;M45
+4426;Leutenegger;Josef;44;Basel;2:59:14;M55
+4439;Omlin;Ueli;65;Sachseln;2:54:28;M30
+4447;Ostertag;Andreas;57;Herrliberg;2:48:56;M45
+4459;Ott;René;61;Oberhittnau;2:55:58;M40
+4464;Otto;Gregor;60;Egg b.Zürich;2:44:42;M40
+4470;Paeth;Jürgen;66;D-Ehningen;2:55:45;M30
+4484;Patt;Sandra;71;Hirzel;2:49:31;W30
+4494;Pelliccione;Davide;66;Bussigny-Lausanne;2:50:47;M30
+4512;Peter;Peter;66;Männedorf;2:35:05;M30
+4525;Pfaff;Werner;58;Liestal;2:56:31;M45
+4543;Pfister;Rolf;66;Uster;2:54:49;M30
+4555;Piccirillo;Antonio;66;Mollis;2:34:37;M30
+4566;Pivato;Emanuel;70;Hünenberg;2:35:59;M30
+4570;Planzer-Steiner;Martin ;70;Brunnen;2:57:33;M30
+4582;Poole;Simon;58;Wettingen;2:59:28;M45
+4598;Probst;Mirjam;72;Solothurn;2:55:42;W30
+4617;Raemy;Hugo;75;Plaffeien;2:28:44;M20
+4653;Reckermann;Ralf;68;D-Kadelburg;2:52:55;M30
+4657;Rege;Markus;62;Nussbaumen;2:48:01;M40
+4665;Reiber;Carolina;73;D-Hamburg;2:48:45;W30
+4697;Rezan;Robert;77;Embrach;2:59:29;M20
+4704;Richard;Daniel;66;Olten;2:46:15;M30
+4711;Nickler;Marcel;59;Binningen;2:58:22;M40
+4777;Rohrer;Hansruedi;58;Rubigen;2:42:54;M45
+4796;Rose;Nikolai;73;D-Rielasingen-Worbli;2:40:27;M30
+4798;Rosinus;Renato;51;Wallisellen;2:57:35;M50
+4821;Roulier;Gilbert;72;Erlenbach i.S.;2:35:36;M30
+4853;Ruf;Remo;74;Laufen;2:46:42;M20
+4874;Rütti;Mario;77;Dietlikon;2:55:18;M20
+4930;Saxer;Beat;64;Zürich;2:43:40;M30
+4937;Scattolin;Pascal;72;Zürich;2:55:38;M30
+5026;Schenk;Felix;64;Wigoltingen;2:33:17;M30
+5032;Schenkel;Rainer;64;Herrliberg;2:55:12;M30
+5107;Schmid;Andreas;61;Steinhausen;2:41:56;M40
+5111;Schmid;Christian;58;Rüti ZH;2:59:36;M45
+5114;Schmid;Ernst;65;Udligenswil;2:58:47;M30
+5124;Schmid;Mike;61;Sulz;2:59:47;M40
+5130;Schmid;Simon;70;Moenthal;2:51:01;M30
+5161;Schmutz;Gabriel;70;Basel;2:37:29;M30
+5216;Schönbächler;Georg;64;Zürich;2:45:48;M30
+5280;Schütz;Hansruedi;57;Adligenswil;2:48:34;M45
+5288;Schwab;Werner;56;Arch;2:57:03;M45
+5289;Schwager;Linus;67;Wängi;2:59:21;M30
+5307;Schweizer;René;50;Eglisau;2:44:55;M50
+5341;Senn;Rolf;68;Rorbas;2:46:39;M30
+5350;Setz;Konrad;65;Lostorf;2:49:23;M30
+5371;Sigrist;Martin;67;Horgenberg;2:35:11;M30
+5380;Silva;Afonso;64;Peseux;2:57:51;M30
+5381;Silvant;Olivier;67;Magglingen/Macolin;2:53:03;M30
+5385;Simperl;Burkhard;73;Winterthur;2:48:48;M30
+5388;Single;Patrick;62;D-Konstanz;2:47:04;M40
+5410;Sonderer;Marcel;63;Kilchberg;2:59:19;M40
+5413;Spaargaren;Marco;66;Zürich;2:59:34;M30
+5459;Spycher;Wolfram;61;Thônex;2:58:42;M40
+5515;Steinacher;Helmuth;67;Küttigen;2:53:43;M30
+5521;Steiner;Dani;73;Oberrieden;2:58:45;M30
+5548;Müller;Max W;64;Vilters;2:57:50;M30
+5588;Stowasser;Jürgen;63;D-Magstadt;2:44:28;M40
+5596;Strässle;Christian;65;Oron-la-Ville;2:58:33;M30
+5614;Streule;Bruno;64;Zürich;2:45:29;M30
+5708;Testorelli;Alain;71;Intragna;2:40:03;M30
+5722;Thode;Andreas;75;Aesch;2:44:40;M20
+5775;Baumann;Klaus;64;A-Innsbruck;2:56:38;M30
+5806;Tundo;Tonino;65;Luzern;2:56:43;M30
+5815;Schildknecht;Richard;64;St Gallen;2:55:26;M30
+5816;Ullmann;Tom;64;Zürich;2:55:56;M30
+5817;Winkler;Thomas;73;Liebefeld;2:35:35;M30
+5819;Ulrich;Beat;58;Buttikon;2:58:24;M45
+5822;Ummel;Beat;60;Suhr;2:59:10;M40
+5826;Bähler;Beat;73;Zäziwil;2:56:59;M30
+5831;Urner;Stefan;60;Grüningen;2:51:33;M40
+5879;Vogel;Bruno;59;Glarus;2:45:51;M40
+5886;Vogel;Urs Vogel;64;Zürich;2:56:26;M30
+5911;von Gunten;Markus;65;Bettlach;2:41:26;M30
+5917;von Siebenthal;Arthur;78;Davos Platz;2:42:45;M20
+5936;Waeber;Dominik;72;Schwarzsee;2:57:55;M30
+5938;Wagner;Florian;77;Zürich;2:56:27;M20
+5965;Walter;Urs;75;Uhwiesen;2:47:00;M20
+5991;Weber;Andreas;61;Fällanden;2:57:33;M40
+6013;Weber;Winfried;60;D-Stuttgart;2:50:36;M40
+6060;Wenger;René;56;Thalwil;2:59:22;M45
+6098;Wettach;Andreas;72;Baar;2:43:19;M30
+6123;Widmer;Franz;54;Fahrwangen;2:59:10;M45
+6128;Widmer;Lucas;59;Uitikon;2:50:42;M40
+6166;Wilde;Erik;67;Zürich;2:53:32;M30
+6183;Winiger;Roland;68;St Gallen;2:51:51;M30
+6188;Leban;Robert;67;Wetzikon ZH;2:43:07;M30
+6189;Winkler;Michael;71;Zürich;2:54:26;M30
+6198;Wipf;Bruno;66;Aesch;2:57:50;M30
+6202;Wirth;Dominik;73;Bern;2:37:15;M30
+6233;Wolfensberger;Remo;65;Rüti;2:56:40;M30
+6236;Wolfer;Martin;57;Meilen;2:39:45;M45
+6277;Wynne;James;67;Luzern;2:57:01;M30
+6289;Wyss;Thomas;72;Lostorf;2:55:06;M30
+6331;Zeltner;Marius;75;Kappel;2:53:10;M20
+6421;Rüedi;Patrick;73;Zürich;2:36:24;M30
+6501;Keller;Jürg;66;Hombrechtikon;2:52:18;M30
+6515;Benz;Felix;60;Heerbrugg;2:54:04;M40
+3484;Früh;Peter;48;Schöfflisdorf;4:31:16;M55

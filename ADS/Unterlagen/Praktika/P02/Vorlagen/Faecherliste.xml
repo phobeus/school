@@ -1,0 +1,27 @@
+<Faecherliste>
+<Fach>
+	<Titel>XML-Konzepte</Titel>
+	<Dozenten>
+		<Dozent>
+				<Vorname>Peter</Vorname>
+				<Nachname>Frueh</Nachname>
+				<Kurzzeichen>frp</Kurzzeichen>
+		</Dozent>
+		<Dozent>
+				<Vorname>Karl</Vorname>
+				<Nachname>Rege</Nachname>
+				<Kurzzeichen>rea</Kurzzeichen>
+		</Dozent>
+	</Dozenten>
+	<Inhalt>
+		<Kapitel>XML Grundlagen></Kapitel>
+		<Kapitel>DTDs und Schemas</Kapitel>
+		<Kapitel>Namespaces</Kapitel>
+		<Kapitel>...</Kapitel>
+	</Inhalt>
+</Fach>
+<Fach>
+	<Titel>Automatisierungstechnik</Titel>
+	<Dozenten> ... </Dozenten>
+</Fach>
+</Faecherliste>
